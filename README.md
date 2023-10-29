@@ -1,7 +1,7 @@
 # 👋 Hey there
 
 <div align="justify">
-    My name is Lucas and I'm a aspiring Full Stack Engineer who loves to work with JavaScript technologies. Right now my mind is focused on learning everything that is related to Web Development. I'm also passionate about exploring new technologies which I can leverage to solve real-life problems.
+    My name is Jiahao(Lucas) and I'm a aspiring Full Stack Engineer who loves to work with JavaScript technologies. Right now my mind is focused on learning everything that is related to Web Development. I'm also passionate about exploring new technologies which I can leverage to solve real-life problems.
 </div>
 
 <br/><a href="https://www.linkedin.com/in/jiahao-huamani"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
