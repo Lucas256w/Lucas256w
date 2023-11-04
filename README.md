@@ -48,12 +48,12 @@
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"
         width="48"
         height="48"
-        alt="Babel"
+        alt="Jest"
       />
-      <br /><strong>Babel</strong>
+      <br /><strong>Jest</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
@@ -113,12 +113,12 @@
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg"
         width="48"
         height="48"
-        alt="VS Code"
+        alt="Babel"
       />
-      <br /><strong>VS Code</strong>
+      <br /><strong>Babel</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
