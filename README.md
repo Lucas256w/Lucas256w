@@ -21,6 +21,24 @@
     </td>
     <td align="center" height="108" width="108">
       <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"
+        width="48"
+        height="48"
+        alt="Node"
+      />
+      <br /><strong>Node</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg"
+        width="48"
+        height="48"
+        alt="Express"
+      />
+      <br /><strong>Express</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
         width="48"
         height="48"
@@ -57,26 +75,6 @@
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"
-        width="48"
-        height="48"
-        alt="Jest"
-      />
-      <br /><strong>Jest</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg"
-        width="48"
-        height="48"
-        alt="GO"
-      />
-      <br /><strong>GO</strong>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" height="108" width="108">
-      <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"
         width="48"
         height="48"
@@ -84,6 +82,8 @@
       />
       <br /><strong>Figma</strong>
     </td>
+  </tr>
+  <tr>
     <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
@@ -95,12 +95,21 @@
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
         width="48"
         height="48"
-        alt="Flask"
+        alt="Java"
       />
-      <br /><strong>Flask</strong>
+      <br /><strong>Java</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg"
+        width="48"
+        height="48"
+        alt="Firebase"
+      />
+      <br /><strong>Firebase</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
@@ -122,21 +131,24 @@
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"
         width="48"
         height="48"
-        alt="Git"
+        alt="Jest"
       />
-      <br /><strong>Git</strong>
+      <br /><strong>Jest</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitest/vitest-original.svg"
         width="48"
         height="48"
-        alt="Docker"
+        alt="Vitest"
       />
-      <br /><strong>Docker</strong>
+      <br /><strong>Vitest</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <br /><strong>Supertest</strong>
     </td>
   </tr>
 </table>
